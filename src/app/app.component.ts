@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'parcial';
+  title = 'Parcial Plataformas de Computación';
+  mostrar1 = true;
+  mostrar2 = true;
+  mostrar3 = true;
 }
